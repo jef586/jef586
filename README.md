@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # ¡Hola! Soy Ezequiel Flores
 
-Soy un apasionado QA tester y desarrollador Vue.js con [Número] años de experiencia. Me encanta encontrar y solucionar bugs, y crear interfaces de usuario intuitivas y atractivas.
+Soy un apasionado QA tester y desarrollador Vue.js con 3 años de experiencia. Me encanta encontrar y solucionar bugs, y crear interfaces de usuario intuitivas y atractivas.
 
 **Habilidades:**
 
